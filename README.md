@@ -1,2 +1,2 @@
 # Crackle-Pop
-first code written from scratch with inspiration 
+first code written from scratch 
